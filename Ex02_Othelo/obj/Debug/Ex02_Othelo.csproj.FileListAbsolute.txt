@@ -1,0 +1,6 @@
+C:\Projects Github\ELI C#\B19 Ex02 EliyahuYakubov 313268203 BarakAted 313266561\Ex02_Othelo\bin\Debug\Ex02_Othelo.exe.config
+C:\Projects Github\ELI C#\B19 Ex02 EliyahuYakubov 313268203 BarakAted 313266561\Ex02_Othelo\obj\Debug\Ex02_Othelo.csprojResolveAssemblyReference.cache
+C:\Projects Github\ELI C#\B19 Ex02 EliyahuYakubov 313268203 BarakAted 313266561\Ex02_Othelo\bin\Debug\Ex02_Othelo.exe
+C:\Projects Github\ELI C#\B19 Ex02 EliyahuYakubov 313268203 BarakAted 313266561\Ex02_Othelo\bin\Debug\Ex02_Othelo.pdb
+C:\Projects Github\ELI C#\B19 Ex02 EliyahuYakubov 313268203 BarakAted 313266561\Ex02_Othelo\obj\Debug\Ex02_Othelo.exe
+C:\Projects Github\ELI C#\B19 Ex02 EliyahuYakubov 313268203 BarakAted 313266561\Ex02_Othelo\obj\Debug\Ex02_Othelo.pdb

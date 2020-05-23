@@ -12,7 +12,6 @@ namespace Ex02_Othelo
         private int m_SelectedBoardSize;
         private char[,] m_Board;
 
-        // $G$ CSS-999 (-3) return should be in the end of the function
         public void GameMenu()
         {
             this.startGame();
@@ -28,7 +27,6 @@ namespace Ex02_Othelo
             string input = System.Console.ReadLine();
             while (true)
             {
-                // $G$ CSS-999 (-3) You should have used constants here.
                 while (!input.Equals("Y") && !input.Equals("N"))
                 {
                     System.Console.WriteLine("Do you want to play again ? (Y/N) enter Y for yes or N for no ");
@@ -108,7 +106,6 @@ namespace Ex02_Othelo
             return;
         }
 
-        // $G$ CSS-028 (-3) method shouldn't include more then one return command.
         private bool checkInput(string i_Input)
         {
             int selectedInput;
@@ -176,7 +173,6 @@ namespace Ex02_Othelo
             System.Console.Write(Environment.NewLine);
         }
 
-        // $G$ CSS-999 (-3) return should be in the end of the function
         private int playGame()
         {
             short playerTurn = 1;
@@ -221,8 +217,6 @@ namespace Ex02_Othelo
             return 1;
         }
 
-        // $G$ CSS-999 (-3) return should be in the end of the function
-        // $G$ DSN-002 (-20) You should seperate the logical parts of the game from the UI.
         private int turn(Player i_Player)
         {
             string move;

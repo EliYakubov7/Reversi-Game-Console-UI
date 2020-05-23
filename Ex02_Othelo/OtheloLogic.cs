@@ -4,7 +4,6 @@ using System.Text;
 
 namespace Ex02_Othelo
 {
-    // $G$ CSS-028 (-3) method shouldn't include more then one return command
     public class OtheloLogic
     {
         public bool IsValidMove(ref char[,] i_Board, int i_Row, int i_Col, char i_Color)
@@ -28,7 +27,6 @@ namespace Ex02_Othelo
             return false;
         }
 
-        // $G$ DSN-999 (-5) bad programming - to many variables in the function signature
         public bool CanBeSwitched(int i_Row, int i_Col, int i_DeltaRow, int i_DeltaCol, char i_Color, ref char[,] i_Board)
         {
             int row = i_Row + i_DeltaRow;
