@@ -12,9 +12,9 @@ There are two signs for the game players : X and O.\
 After the game is over, the game's score is displayed and you can continue to another game or exit.
 
 ### Screenshots
-<img src="https://github.com/EliYakubov7/Reversi-Game-Console-UI/blob/master/screenshots/part_one.png" width="500" >
-<img src="https://github.com/EliYakubov7/Reversi-Game-Console-UI/blob/master/screenshots/part_two.png" width="500" >
-<img src="https://github.com/EliYakubov7/Reversi-Game-Console-UI/blob/master/screenshots/part_three.png" width="500" >
+<img src="https://github.com/EliYakubov7/Reversi-Game-Console-UI/blob/master/screenshots/part_one.png" width="700" >
+<img src="https://github.com/EliYakubov7/Reversi-Game-Console-UI/blob/master/screenshots/part_two.png" width="700" >
+<img src="https://github.com/EliYakubov7/Reversi-Game-Console-UI/blob/master/screenshots/part_three.png" width="700" >
 
 ## Authors
 
